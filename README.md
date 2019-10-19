@@ -1,6 +1,6 @@
 # Easy-Carykh-jumpcutter
 
-•ALL OS's need you to have admin access and python
+•ALL OS's need you to have admin access, python and pip
 
 •Make sure to run scripts in correct order on mac
 
