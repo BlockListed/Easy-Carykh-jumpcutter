@@ -1,0 +1,5 @@
+sudo pip3 install pillow
+sudo pip3 install audiotsm
+sudo pip3 install scipy
+sudo pip3 install pytube
+sudo apt install ffmpeg
