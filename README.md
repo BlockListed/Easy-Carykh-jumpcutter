@@ -2,7 +2,7 @@
 
 •ALL OS's need you to have admin access, python and pip
 
-•Make sure to run scripts in correct order on mac
+•Make sure to paste all commands into terminal in correct order on mac
 
 •The jumpcutter.py was programmed by carykh(https://github.com/carykh/jumpcutter)
 
