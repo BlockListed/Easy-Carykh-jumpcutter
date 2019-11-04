@@ -1,1 +1,0 @@
-python jumpcutter.py --input_file video.mp4 --output_file video_edited.mp4 --sounded_speed 1 --silent_speed 999999
