@@ -1,4 +1,4 @@
-# Easy-Carykh-jumpcutter
+# (Not actually usefule or good) Easy-Carykh-jumpcutter
 
 •ALL OS's need you to have admin access, python and pip
 
